@@ -1,1 +1,3 @@
-System.out.println("Hello World")
+while(i=0,i<=100,i++){
+    System.out.println("Hello World");
+}
